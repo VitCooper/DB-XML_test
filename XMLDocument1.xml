@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <persons>
+        <person attr1 = "1232" attr2="123123">
+            <firstName>Anton</firstName>
+            <lastName>Saburov</lastName>
+            <phones>
+                <phone type="mobile">1</phone>
+                <phone type="office">2</phone>
+                <phone type="home">3</phone>
+            </phones>
+        </person>    
+        <person>
+          <firstName>Vit</firstName>
+          <lastName>Cooper</lastName>         
+            
+        </person>
+       
+    </persons>     
+    
+    
+</root>
